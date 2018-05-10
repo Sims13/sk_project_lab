@@ -1,3 +1,6 @@
 this is in the new branch.
 Lets see
 Here we go...
+Adding
+3 lines
+of text
